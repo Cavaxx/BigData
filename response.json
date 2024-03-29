@@ -1,0 +1,860 @@
+{
+  "offset": 0,
+  "data": [
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "AB1",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Chiusa"},
+      "sname": "Autostrada Nord - Chiusa",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ04",
+      "scoordinate": {
+        "x": 11.110227,
+        "y": 46.104338,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "AIRQ04_Intercalibrazione",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "BR1",
+      "scoordinate": {
+        "x": 11.944028,
+        "y": 46.797347,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Brunico"},
+      "sname": "Brunico - Parcheggio Goethe",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "BZ1",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Bolzano"},
+      "sname": "Bolzano 1 - Via Amba Alagi",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "BZ2",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Bolzano"},
+      "sname": "Bolzano 2 - Piazza Verdi",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "BZ3",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Bolzano"},
+      "sname": "Bolzano 3 - ",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "LA1",
+      "scoordinate": {
+        "x": 10.859056,
+        "y": 46.619472,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Laces"},
+      "sname": "Laces - Via Stazione",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "ME1",
+      "scoordinate": {
+        "x": 11.161625,
+        "y": 46.662,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Merano"},
+      "sname": "Merano - Via Trogmann",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "ML3",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "null"},
+      "sname": "Mobile 3 - ",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "ML4",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "null"},
+      "sname": "Mobile 4 - ",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "RE1",
+      "scoordinate": {
+        "x": 11.433167,
+        "y": 46.589667,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Renon"},
+      "sname": "Renon - Corno di Renon / Via Tann, Gr\u00fcnwald",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": false,
+      "savailable": true,
+      "scode": "ST1",
+      "scoordinate": {
+        "x": 0,
+        "y": 0,
+        "srid": 4326
+      },
+      "smetadata": {"municipality": "Vipiteno"},
+      "sname": "Vipiteno - Via Josef Hirn",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AB2",
+      "scoordinate": {
+        "x": 11.279333,
+        "y": 46.343653,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "A22 Sud - Binnenland, Egna",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AB3",
+      "scoordinate": {
+        "x": 11.633306,
+        "y": 46.687556,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "A22 Nord-Bx sud - Depuratore, Bx",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN_27",
+      "scoordinate": {
+        "x": 11.003153,
+        "y": 45.864871,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "BrennerLEC",
+      "sorigin": "APPATN",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_15",
+      "scoordinate": {
+        "x": 10.958041,
+        "y": 46.082531,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Vallelaghi"},
+      "sname": "MONTE GAZA",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_2",
+      "scoordinate": {
+        "x": 11.126206,
+        "y": 46.062928,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Trento"},
+      "sname": "TRENTO PSC",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_22",
+      "scoordinate": {
+        "x": 11.11343,
+        "y": 46.196839,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Mezzolombardo"},
+      "sname": "PIANA ROTALIANA",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_23",
+      "scoordinate": {
+        "x": 10.970438,
+        "y": 45.742156,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Avio"},
+      "sname": "AVIO A22",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_4",
+      "scoordinate": {
+        "x": 11.110227,
+        "y": 46.104338,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Trento"},
+      "sname": "TRENTO VBZ",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_6",
+      "scoordinate": {
+        "x": 11.039411,
+        "y": 45.892437,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Rovereto"},
+      "sname": "ROVERETO LGP",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_8",
+      "scoordinate": {
+        "x": 11.453893,
+        "y": 46.051841,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Borgo Valsugana"},
+      "sname": "BORGO VAL",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "APPATN-open_9",
+      "scoordinate": {
+        "x": 10.844485,
+        "y": 45.891467,
+        "srid": 4326
+      },
+      "smetadata": {"crs": "EPSG:4326", "municipality": "Riva del Garda"},
+      "sname": "RIVA GAR",
+      "sorigin": "APPATN-open",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ01",
+      "scoordinate": {
+        "x": 11.25436,
+        "y": 46.309867,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM105-150-centrale",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ02",
+      "scoordinate": {
+        "x": 11.26597,
+        "y": 46.320036,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM103-700",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ03",
+      "scoordinate": {
+        "x": 11.283143,
+        "y": 46.349276,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM100-150",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ05",
+      "scoordinate": {
+        "x": 11.372969,
+        "y": 46.492459,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM080-175",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ06",
+      "scoordinate": {
+        "x": 11.417621,
+        "y": 46.491464,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM076-600",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ07",
+      "scoordinate": {
+        "x": 11.556295,
+        "y": 46.63145,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM056-050",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ08",
+      "scoordinate": {
+        "x": 11.642287,
+        "y": 46.694886,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM046-050",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ09",
+      "scoordinate": {
+        "x": 11.641675,
+        "y": 46.73139,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM041-800",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ10",
+      "scoordinate": {
+        "x": 11.607754,
+        "y": 46.794606,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM033-600",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ11",
+      "scoordinate": {
+        "x": 11.110227,
+        "y": 46.104338,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "AIRQ11_Intercalibrazione",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ12",
+      "scoordinate": {
+        "x": 11.432056,
+        "y": 46.912777,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM012-200",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ13",
+      "scoordinate": {
+        "x": 10.949835,
+        "y": 45.734199,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM181-800",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ14",
+      "scoordinate": {
+        "x": 10.992338,
+        "y": 45.755748,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM177-600",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ15",
+      "scoordinate": {
+        "x": 11.002936,
+        "y": 45.833428,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM167-950",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ16",
+      "scoordinate": {
+        "x": 11.003113,
+        "y": 45.864485,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM164-400",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ17",
+      "scoordinate": {
+        "x": 11.068084,
+        "y": 45.927484,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM155-180",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ18",
+      "scoordinate": {
+        "x": 11.108216,
+        "y": 45.976701,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM148-200",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ19",
+      "scoordinate": {
+        "x": 11.116044,
+        "y": 46.042271,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM140-605",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ20",
+      "scoordinate": {
+        "x": 11.088814,
+        "y": 46.108147,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM132-800",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ21",
+      "scoordinate": {
+        "x": 11.11349,
+        "y": 46.182606,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM123-900",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ22",
+      "scoordinate": {
+        "x": 11.084209,
+        "y": 46.136241,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM129-600",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "AUGEG4_AIRQ23",
+      "scoordinate": {
+        "x": 11.25436,
+        "y": 46.309867,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione_KM105-150-4metri",
+      "sorigin": "a22-algorab",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "BX1",
+      "scoordinate": {
+        "x": 11.654083,
+        "y": 46.714917,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Bressanone - Villa Adele - Viale Ratisbona",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "BZ4",
+      "scoordinate": {
+        "x": 11.341833,
+        "y": 46.482306,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Bolzano 4 - Via C.Augusta",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "BZ5",
+      "scoordinate": {
+        "x": 11.339972,
+        "y": 46.495472,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Bolzano 5 - Piazza Adriano",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "BZ6",
+      "scoordinate": {
+        "x": 11.341972,
+        "y": 46.499167,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Bolzano 6 - Via Amba Alagi giardino",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "CR1",
+      "scoordinate": {
+        "x": 11.227083,
+        "y": 46.267222,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Cortina ssdV - Strada del Vino",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "CR2",
+      "scoordinate": {
+        "x": 11.22324,
+        "y": 46.26406,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Cortina ssdV - Via Paludi",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "LS1",
+      "scoordinate": {
+        "x": 11.340139,
+        "y": 46.434833,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Laives - Via Galizia",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "ML2",
+      "scoordinate": {
+        "x": 11.237528,
+        "y": 46.288889,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Vipiteno \u2013 Via S. Margherita",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "ML5",
+      "scoordinate": {
+        "x": 11.266944,
+        "y": 46.320972,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "A22 Egna - A22, corsia sud km 103",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "ML6",
+      "scoordinate": {
+        "x": 11.344167,
+        "y": 46.487917,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Bolzano - Via Roma, c/o Ex Saetta",
+      "sorigin": "APPABZ",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:30",
+      "scoordinate": {
+        "x": 11.349999,
+        "y": 46.495066,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Via Marconi",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:31",
+      "scoordinate": {
+        "x": 11.341227,
+        "y": 46.492369,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Via Roma",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:32",
+      "scoordinate": {
+        "x": 11.340066,
+        "y": 46.479422,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Via Claudia Augusta",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:33",
+      "scoordinate": {
+        "x": 11.330473,
+        "y": 46.482477,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Via Einstein",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:34",
+      "scoordinate": {
+        "x": 11.320163,
+        "y": 46.484852,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Via Bari",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    },
+    {
+      "sactive": true,
+      "savailable": true,
+      "scode": "municipalitybz:35",
+      "scoordinate": {
+        "x": 11.334439,
+        "y": 46.50298,
+        "srid": 4326
+      },
+      "smetadata": {},
+      "sname": "Stazione Ambiente - Piazza Gries",
+      "sorigin": "FAMAS-traffic",
+      "stype": "EnvironmentStation"
+    }
+  ],
+  "limit": 200
+}
